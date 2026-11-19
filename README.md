@@ -1,3 +1,6 @@
+## 古法编程练习
+https://gobyexample-cn.github.io/ 中文版  
+https://gobyexample.com/ 英文版  
 ## 学习路线
 
 ### 1. Go 官方入门
