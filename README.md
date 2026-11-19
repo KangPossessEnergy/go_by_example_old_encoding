@@ -27,5 +27,3 @@
 ## 许可与来源
 
 本仓库的原创内容采用 [MIT License](LICENSE)。
-
-练习中的部分代码和注释改编自 Go by Example（Mark McGranaghan、Eli Bendersky 编写，gobyexample-cn 翻译），改动包括补充中文注释和调整部分示例输出。这些改编内容沿用上游的 CC BY 3.0 许可。[原版许可说明](https://github.com/mmcgrana/gobyexample#license) · [中文版](https://gobyexample-cn.github.io/) · [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
